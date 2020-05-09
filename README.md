@@ -1,4 +1,4 @@
 # iNeuron-Assignment-1
-### Akhil Gadi - PY6
+## Akhil Gadi - PY6
 
-## Assignment files attached for PythonCore
+#### Assignment files attached for PythonCore
